@@ -3,7 +3,7 @@ title: "TiVHDR: Time-Aware SDR-HDR Video Translation"
 collection: publications
 permalink: /publication/paper4
 excerpt: 'T. Qin, Z. He, Z. Ni, W. Yang, H. Wang, and S. Kwong'
-date: 2024-06-20
+date: 2024-6-20
 venue: 'IEEE Transactions On Image Processing Under Review'
 paperurl: #'http://academicpages.github.io/files/paper3.pdf'
 citation: #'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
