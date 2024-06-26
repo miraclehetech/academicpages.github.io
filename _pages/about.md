@@ -10,6 +10,6 @@ I graduated from [School of CEIE](https://see.tongji.edu.cn/), [Tongji Universit
 
 I am very fortunate to be advised by [Prof Ni ZhangKai](https://eezkni.github.io/) of MIC Lab and Prof Li Jie of BCI Lab from [School Of CEIE](https://see.tongji.edu.cn/).
 
-You can find my CV here: [He ZhengXiao's Curriculum Vitae](../assets/hezhengxiao-cv.pdf).
+You can find my CV here: [He ZhengXiao's Curriculum Vitae](./assets/hezhengxiao-cv.pdf).
 
 [Email](mailto:zhengxiaohe4@gmail.com)
