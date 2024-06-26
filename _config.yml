@@ -23,8 +23,8 @@ author:
   # Biographic information
   avatar           : "hzx.png"
   name             : "He ZhengXiao"
-  pronouns         : He/Him
-  bio              : "Tongji Data Science/High School affiliated to Shanghai Jiaotong University"
+  pronouns         : # He/Him
+  bio              : "Student Graduated from Tongji Data Science/High School affiliated to Shanghai Jiaotong University"
   location         : "Aarhus, Denmark"
   employer         : "Aarhus University"
   uri              : # URL
