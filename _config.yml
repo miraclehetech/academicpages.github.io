@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "He ZhengXiao / Incoming Master Of Computer Science Student"
+title                    : "He ZhengXiao-Incoming Master Of Computer Science Student"
 title_separator          : "-"
 name                     : &name "He ZhengXiao"
 description              : &description "personal description"
